@@ -23,13 +23,10 @@
   color: #61dafb;
 }
 
-<<<<<<< HEAD
 .fa.fa-paint-brush, .fa.fa-trash {
   cursor: pointer;
 }
 
-=======
->>>>>>> d640257707603c0c674ca783e605d8f228ec7d59
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
